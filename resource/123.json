@@ -1,0 +1,834 @@
+[
+  {
+    "name": "AUD",
+    "date": "4月 17, 2024",
+    "buyCash": 20.5,
+    "buySpot": 20.685,
+    "sellCash": 21.25,
+    "sellSpot": 21.03
+  },
+  {
+    "name": "AUD",
+    "date": "4月 18, 2024",
+    "buyCash": 20.49,
+    "buySpot": 20.78,
+    "sellCash": 21.27,
+    "sellSpot": 20.98
+  },
+  {
+    "name": "AUD",
+    "date": "4月 19, 2024",
+    "buyCash": 20.51,
+    "buySpot": 20.725,
+    "sellCash": 21.29,
+    "sellSpot": 21.07
+  },
+  {
+    "name": "AUD",
+    "date": "4月 20, 2024",
+    "buyCash": 20.48,
+    "buySpot": 20.695,
+    "sellCash": 21.26,
+    "sellSpot": 21.04
+  },
+  {
+    "name": "AUD",
+    "date": "4月 22, 2024",
+    "buyCash": 20.59,
+    "buySpot": 20.805,
+    "sellCash": 21.37,
+    "sellSpot": 21.15
+  },
+  {
+    "name": "CAD",
+    "date": "4月 17, 2024",
+    "buyCash": 23.04,
+    "buySpot": 23.37,
+    "sellCash": 23.95,
+    "sellSpot": 23.7
+  },
+  {
+    "name": "CAD",
+    "date": "4月 18, 2024",
+    "buyCash": 23.08,
+    "buySpot": 23.48,
+    "sellCash": 23.99,
+    "sellSpot": 23.68
+  },
+  {
+    "name": "CAD",
+    "date": "4月 19, 2024",
+    "buyCash": 23.18,
+    "buySpot": 23.51,
+    "sellCash": 24.09,
+    "sellSpot": 23.84
+  },
+  {
+    "name": "CAD",
+    "date": "4月 20, 2024",
+    "buyCash": 23.15,
+    "buySpot": 23.48,
+    "sellCash": 24.06,
+    "sellSpot": 23.81
+  },
+  {
+    "name": "CAD",
+    "date": "4月 22, 2024",
+    "buyCash": 23.27,
+    "buySpot": 23.6,
+    "sellCash": 24.18,
+    "sellSpot": 23.93
+  },
+  {
+    "name": "CHF",
+    "date": "4月 17, 2024",
+    "buyCash": 34.88,
+    "buySpot": 35.49,
+    "sellCash": 36.08,
+    "sellSpot": 35.88
+  },
+  {
+    "name": "CHF",
+    "date": "4月 18, 2024",
+    "buyCash": 34.83,
+    "buySpot": 35.51,
+    "sellCash": 36.03,
+    "sellSpot": 35.76
+  },
+  {
+    "name": "CHF",
+    "date": "4月 19, 2024",
+    "buyCash": 34.96,
+    "buySpot": 35.57,
+    "sellCash": 36.16,
+    "sellSpot": 35.96
+  },
+  {
+    "name": "CHF",
+    "date": "4月 20, 2024",
+    "buyCash": 34.91,
+    "buySpot": 35.52,
+    "sellCash": 36.11,
+    "sellSpot": 35.91
+  },
+  {
+    "name": "CHF",
+    "date": "4月 22, 2024",
+    "buyCash": 35.02,
+    "buySpot": 35.63,
+    "sellCash": 36.22,
+    "sellSpot": 36.02
+  },
+  {
+    "name": "CNY",
+    "date": "4月 17, 2024",
+    "buyCash": 4.382,
+    "buySpot": 4.449,
+    "sellCash": 4.544,
+    "sellSpot": 4.509
+  },
+  {
+    "name": "CNY",
+    "date": "4月 18, 2024",
+    "buyCash": 4.381,
+    "buySpot": 4.453,
+    "sellCash": 4.543,
+    "sellSpot": 4.503
+  },
+  {
+    "name": "CNY",
+    "date": "4月 19, 2024",
+    "buyCash": 4.389,
+    "buySpot": 4.456,
+    "sellCash": 4.551,
+    "sellSpot": 4.516
+  },
+  {
+    "name": "CNY",
+    "date": "4月 20, 2024",
+    "buyCash": 4.389,
+    "buySpot": 4.456,
+    "sellCash": 4.551,
+    "sellSpot": 4.516
+  },
+  {
+    "name": "CNY",
+    "date": "4月 22, 2024",
+    "buyCash": 4.404,
+    "buySpot": 4.471,
+    "sellCash": 4.566,
+    "sellSpot": 4.531
+  },
+  {
+    "name": "EUR",
+    "date": "4月 17, 2024",
+    "buyCash": 33.75,
+    "buySpot": 34.265,
+    "sellCash": 35.09,
+    "sellSpot": 34.865
+  },
+  {
+    "name": "EUR",
+    "date": "4月 18, 2024",
+    "buyCash": 33.82,
+    "buySpot": 34.44,
+    "sellCash": 35.16,
+    "sellSpot": 34.84
+  },
+  {
+    "name": "EUR",
+    "date": "4月 19, 2024",
+    "buyCash": 33.88,
+    "buySpot": 34.395,
+    "sellCash": 35.22,
+    "sellSpot": 34.995
+  },
+  {
+    "name": "EUR",
+    "date": "4月 20, 2024",
+    "buyCash": 33.84,
+    "buySpot": 34.355,
+    "sellCash": 35.18,
+    "sellSpot": 34.955
+  },
+  {
+    "name": "EUR",
+    "date": "4月 22, 2024",
+    "buyCash": 33.95,
+    "buySpot": 34.465,
+    "sellCash": 35.29,
+    "sellSpot": 35.065
+  },
+  {
+    "name": "GBP",
+    "date": "4月 17, 2024",
+    "buyCash": 39.32,
+    "buySpot": 40.215,
+    "sellCash": 41.44,
+    "sellSpot": 40.845
+  },
+  {
+    "name": "GBP",
+    "date": "4月 18, 2024",
+    "buyCash": 39.23,
+    "buySpot": 40.24,
+    "sellCash": 41.35,
+    "sellSpot": 40.64
+  },
+  {
+    "name": "GBP",
+    "date": "4月 19, 2024",
+    "buyCash": 39.28,
+    "buySpot": 40.175,
+    "sellCash": 41.4,
+    "sellSpot": 40.805
+  },
+  {
+    "name": "GBP",
+    "date": "4月 20, 2024",
+    "buyCash": 39.04,
+    "buySpot": 39.935,
+    "sellCash": 41.16,
+    "sellSpot": 40.565
+  },
+  {
+    "name": "GBP",
+    "date": "4月 22, 2024",
+    "buyCash": 39.15,
+    "buySpot": 40.045,
+    "sellCash": 41.27,
+    "sellSpot": 40.675
+  },
+  {
+    "name": "HKD",
+    "date": "4月 17, 2024",
+    "buyCash": 3.993,
+    "buySpot": 4.114,
+    "sellCash": 4.197,
+    "sellSpot": 4.184
+  },
+  {
+    "name": "HKD",
+    "date": "4月 18, 2024",
+    "buyCash": 3.989,
+    "buySpot": 4.115,
+    "sellCash": 4.193,
+    "sellSpot": 4.175
+  },
+  {
+    "name": "HKD",
+    "date": "4月 19, 2024",
+    "buyCash": 3.996,
+    "buySpot": 4.117,
+    "sellCash": 4.2,
+    "sellSpot": 4.187
+  },
+  {
+    "name": "HKD",
+    "date": "4月 20, 2024",
+    "buyCash": 3.995,
+    "buySpot": 4.116,
+    "sellCash": 4.199,
+    "sellSpot": 4.186
+  },
+  {
+    "name": "HKD",
+    "date": "4月 22, 2024",
+    "buyCash": 4.009,
+    "buySpot": 4.13,
+    "sellCash": 4.213,
+    "sellSpot": 4.2
+  },
+  {
+    "name": "IDR",
+    "date": "4月 17, 2024",
+    "buyCash": 0.00168,
+    "buySpot": 0.0,
+    "sellCash": 0.00238,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "IDR",
+    "date": "4月 18, 2024",
+    "buyCash": 0.00168,
+    "buySpot": 0.0,
+    "sellCash": 0.00238,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "IDR",
+    "date": "4月 19, 2024",
+    "buyCash": 0.00168,
+    "buySpot": 0.0,
+    "sellCash": 0.00238,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "IDR",
+    "date": "4月 20, 2024",
+    "buyCash": 0.00168,
+    "buySpot": 0.0,
+    "sellCash": 0.00238,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "IDR",
+    "date": "4月 22, 2024",
+    "buyCash": 0.00168,
+    "buySpot": 0.0,
+    "sellCash": 0.00238,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "JPY",
+    "date": "4月 17, 2024",
+    "buyCash": 0.201,
+    "buySpot": 0.2078,
+    "sellCash": 0.2138,
+    "sellSpot": 0.2128
+  },
+  {
+    "name": "JPY",
+    "date": "4月 18, 2024",
+    "buyCash": 0.2012,
+    "buySpot": 0.2085,
+    "sellCash": 0.214,
+    "sellSpot": 0.2125
+  },
+  {
+    "name": "JPY",
+    "date": "4月 19, 2024",
+    "buyCash": 0.2011,
+    "buySpot": 0.2079,
+    "sellCash": 0.2139,
+    "sellSpot": 0.2129
+  },
+  {
+    "name": "JPY",
+    "date": "4月 20, 2024",
+    "buyCash": 0.2011,
+    "buySpot": 0.2079,
+    "sellCash": 0.2139,
+    "sellSpot": 0.2129
+  },
+  {
+    "name": "JPY",
+    "date": "4月 22, 2024",
+    "buyCash": 0.2018,
+    "buySpot": 0.2086,
+    "sellCash": 0.2146,
+    "sellSpot": 0.2136
+  },
+  {
+    "name": "KRW",
+    "date": "4月 17, 2024",
+    "buyCash": 0.02178,
+    "buySpot": 0.0,
+    "sellCash": 0.02568,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "KRW",
+    "date": "4月 18, 2024",
+    "buyCash": 0.02181,
+    "buySpot": 0.0,
+    "sellCash": 0.02571,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "KRW",
+    "date": "4月 19, 2024",
+    "buyCash": 0.02188,
+    "buySpot": 0.0,
+    "sellCash": 0.02578,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "KRW",
+    "date": "4月 20, 2024",
+    "buyCash": 0.02191,
+    "buySpot": 0.0,
+    "sellCash": 0.02581,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "KRW",
+    "date": "4月 22, 2024",
+    "buyCash": 0.02191,
+    "buySpot": 0.0,
+    "sellCash": 0.02581,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "MYR",
+    "date": "4月 17, 2024",
+    "buyCash": 5.74,
+    "buySpot": 0.0,
+    "sellCash": 7.26,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "MYR",
+    "date": "4月 18, 2024",
+    "buyCash": 5.741,
+    "buySpot": 0.0,
+    "sellCash": 7.261,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "MYR",
+    "date": "4月 19, 2024",
+    "buyCash": 5.756,
+    "buySpot": 0.0,
+    "sellCash": 7.276,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "MYR",
+    "date": "4月 20, 2024",
+    "buyCash": 5.756,
+    "buySpot": 0.0,
+    "sellCash": 7.276,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "MYR",
+    "date": "4月 22, 2024",
+    "buyCash": 5.783,
+    "buySpot": 0.0,
+    "sellCash": 7.303,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "NZD",
+    "date": "4月 17, 2024",
+    "buyCash": 18.71,
+    "buySpot": 19.04,
+    "sellCash": 19.56,
+    "sellSpot": 19.34
+  },
+  {
+    "name": "NZD",
+    "date": "4月 18, 2024",
+    "buyCash": 18.73,
+    "buySpot": 19.11,
+    "sellCash": 19.58,
+    "sellSpot": 19.31
+  },
+  {
+    "name": "NZD",
+    "date": "4月 19, 2024",
+    "buyCash": 18.69,
+    "buySpot": 19.02,
+    "sellCash": 19.54,
+    "sellSpot": 19.32
+  },
+  {
+    "name": "NZD",
+    "date": "4月 20, 2024",
+    "buyCash": 18.68,
+    "buySpot": 19.01,
+    "sellCash": 19.53,
+    "sellSpot": 19.31
+  },
+  {
+    "name": "NZD",
+    "date": "4月 22, 2024",
+    "buyCash": 18.79,
+    "buySpot": 19.12,
+    "sellCash": 19.64,
+    "sellSpot": 19.42
+  },
+  {
+    "name": "PHP",
+    "date": "4月 17, 2024",
+    "buyCash": 0.5023,
+    "buySpot": 0.0,
+    "sellCash": 0.6343,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "PHP",
+    "date": "4月 18, 2024",
+    "buyCash": 0.5032,
+    "buySpot": 0.0,
+    "sellCash": 0.6352,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "PHP",
+    "date": "4月 19, 2024",
+    "buyCash": 0.4995,
+    "buySpot": 0.0,
+    "sellCash": 0.6315,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "PHP",
+    "date": "4月 20, 2024",
+    "buyCash": 0.4997,
+    "buySpot": 0.0,
+    "sellCash": 0.6317,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "PHP",
+    "date": "4月 22, 2024",
+    "buyCash": 0.5013,
+    "buySpot": 0.0,
+    "sellCash": 0.6333,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "SEK",
+    "date": "4月 17, 2024",
+    "buyCash": 2.59,
+    "buySpot": 2.92,
+    "sellCash": 3.11,
+    "sellSpot": 3.04
+  },
+  {
+    "name": "SEK",
+    "date": "4月 18, 2024",
+    "buyCash": 2.58,
+    "buySpot": 2.92,
+    "sellCash": 3.1,
+    "sellSpot": 3.02
+  },
+  {
+    "name": "SEK",
+    "date": "4月 19, 2024",
+    "buyCash": 2.6,
+    "buySpot": 2.93,
+    "sellCash": 3.12,
+    "sellSpot": 3.05
+  },
+  {
+    "name": "SEK",
+    "date": "4月 20, 2024",
+    "buyCash": 2.59,
+    "buySpot": 2.92,
+    "sellCash": 3.11,
+    "sellSpot": 3.04
+  },
+  {
+    "name": "SEK",
+    "date": "4月 22, 2024",
+    "buyCash": 2.6,
+    "buySpot": 2.93,
+    "sellCash": 3.12,
+    "sellSpot": 3.05
+  },
+  {
+    "name": "SGD",
+    "date": "4月 17, 2024",
+    "buyCash": 23.28,
+    "buySpot": 23.75,
+    "sellCash": 24.19,
+    "sellSpot": 23.97
+  },
+  {
+    "name": "SGD",
+    "date": "4月 18, 2024",
+    "buyCash": 23.28,
+    "buySpot": 23.77,
+    "sellCash": 24.19,
+    "sellSpot": 23.95
+  },
+  {
+    "name": "SGD",
+    "date": "4月 19, 2024",
+    "buyCash": 23.32,
+    "buySpot": 23.79,
+    "sellCash": 24.23,
+    "sellSpot": 24.01
+  },
+  {
+    "name": "SGD",
+    "date": "4月 20, 2024",
+    "buyCash": 23.3,
+    "buySpot": 23.77,
+    "sellCash": 24.21,
+    "sellSpot": 23.99
+  },
+  {
+    "name": "SGD",
+    "date": "4月 22, 2024",
+    "buyCash": 23.38,
+    "buySpot": 23.85,
+    "sellCash": 24.29,
+    "sellSpot": 24.07
+  },
+  {
+    "name": "THB",
+    "date": "4月 17, 2024",
+    "buyCash": 0.7552,
+    "buySpot": 0.8646,
+    "sellCash": 0.9452,
+    "sellSpot": 0.9106
+  },
+  {
+    "name": "THB",
+    "date": "4月 18, 2024",
+    "buyCash": 0.7544,
+    "buySpot": 0.8668,
+    "sellCash": 0.9444,
+    "sellSpot": 0.9068
+  },
+  {
+    "name": "THB",
+    "date": "4月 19, 2024",
+    "buyCash": 0.7545,
+    "buySpot": 0.8639,
+    "sellCash": 0.9445,
+    "sellSpot": 0.9099
+  },
+  {
+    "name": "THB",
+    "date": "4月 20, 2024",
+    "buyCash": 0.7553,
+    "buySpot": 0.8647,
+    "sellCash": 0.9453,
+    "sellSpot": 0.9107
+  },
+  {
+    "name": "THB",
+    "date": "4月 22, 2024",
+    "buyCash": 0.754,
+    "buySpot": 0.8634,
+    "sellCash": 0.944,
+    "sellSpot": 0.9094
+  },
+  {
+    "name": "USD",
+    "date": "4月 1, 2024",
+    "buyCash": 31.58,
+    "buySpot": 31.93,
+    "sellCash": 32.25,
+    "sellSpot": 32.03
+  },
+  {
+    "name": "USD",
+    "date": "4月 2, 2024",
+    "buyCash": 31.675,
+    "buySpot": 32.025,
+    "sellCash": 32.345,
+    "sellSpot": 32.125
+  },
+  {
+    "name": "USD",
+    "date": "4月 3, 2024",
+    "buyCash": 31.66,
+    "buySpot": 32.01,
+    "sellCash": 32.33,
+    "sellSpot": 32.11
+  },
+  {
+    "name": "USD",
+    "date": "4月 8, 2024",
+    "buyCash": 31.7,
+    "buySpot": 32.05,
+    "sellCash": 32.37,
+    "sellSpot": 32.15
+  },
+  {
+    "name": "USD",
+    "date": "4月 9, 2024",
+    "buyCash": 31.705,
+    "buySpot": 32.055,
+    "sellCash": 32.375,
+    "sellSpot": 32.155
+  },
+  {
+    "name": "USD",
+    "date": "4月 10, 2024",
+    "buyCash": 31.61,
+    "buySpot": 31.96,
+    "sellCash": 32.28,
+    "sellSpot": 32.06
+  },
+  {
+    "name": "USD",
+    "date": "4月 11, 2024",
+    "buyCash": 31.83,
+    "buySpot": 32.18,
+    "sellCash": 32.5,
+    "sellSpot": 32.28
+  },
+  {
+    "name": "USD",
+    "date": "4月 12, 2024",
+    "buyCash": 31.895,
+    "buySpot": 32.245,
+    "sellCash": 32.565,
+    "sellSpot": 32.345
+  },
+  {
+    "name": "USD",
+    "date": "4月 15, 2024",
+    "buyCash": 31.98,
+    "buySpot": 32.33,
+    "sellCash": 32.65,
+    "sellSpot": 32.43
+  },
+  {
+    "name": "USD",
+    "date": "4月 16, 2024",
+    "buyCash": 32.095,
+    "buySpot": 32.445,
+    "sellCash": 32.765,
+    "sellSpot": 32.545
+  },
+  {
+    "name": "USD",
+    "date": "4月 17, 2024",
+    "buyCash": 32.09,
+    "buySpot": 32.44,
+    "sellCash": 32.76,
+    "sellSpot": 32.54
+  },
+  {
+    "name": "USD",
+    "date": "4月 18, 2024",
+    "buyCash": 31.975,
+    "buySpot": 32.325,
+    "sellCash": 32.645,
+    "sellSpot": 32.425
+  },
+  {
+    "name": "USD",
+    "date": "4月 19, 2024",
+    "buyCash": 32.115,
+    "buySpot": 32.465,
+    "sellCash": 32.785,
+    "sellSpot": 32.565
+  },
+  {
+    "name": "USD",
+    "date": "4月 22, 2024",
+    "buyCash": 32.24,
+    "buySpot": 32.59,
+    "sellCash": 32.91,
+    "sellSpot": 32.69
+  },
+  {
+    "name": "VND",
+    "date": "4月 17, 2024",
+    "buyCash": 0.00103,
+    "buySpot": 0.0,
+    "sellCash": 0.00144,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "VND",
+    "date": "4月 18, 2024",
+    "buyCash": 0.00105,
+    "buySpot": 0.0,
+    "sellCash": 0.00146,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "VND",
+    "date": "4月 19, 2024",
+    "buyCash": 0.00103,
+    "buySpot": 0.0,
+    "sellCash": 0.00144,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "VND",
+    "date": "4月 20, 2024",
+    "buyCash": 0.00103,
+    "buySpot": 0.0,
+    "sellCash": 0.00144,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "VND",
+    "date": "4月 22, 2024",
+    "buyCash": 0.00104,
+    "buySpot": 0.0,
+    "sellCash": 0.00145,
+    "sellSpot": 0.0
+  },
+  {
+    "name": "ZAR",
+    "date": "4月 17, 2024",
+    "buyCash": 0.0,
+    "buySpot": 1.667,
+    "sellCash": 0.0,
+    "sellSpot": 1.757
+  },
+  {
+    "name": "ZAR",
+    "date": "4月 18, 2024",
+    "buyCash": 0.0,
+    "buySpot": 1.665,
+    "sellCash": 0.0,
+    "sellSpot": 1.745
+  },
+  {
+    "name": "ZAR",
+    "date": "4月 19, 2024",
+    "buyCash": 0.0,
+    "buySpot": 1.655,
+    "sellCash": 0.0,
+    "sellSpot": 1.745
+  },
+  {
+    "name": "ZAR",
+    "date": "4月 20, 2024",
+    "buyCash": 0.0,
+    "buySpot": 1.657,
+    "sellCash": 0.0,
+    "sellSpot": 1.747
+  },
+  {
+    "name": "ZAR",
+    "date": "4月 22, 2024",
+    "buyCash": 0.0,
+    "buySpot": 1.662,
+    "sellCash": 0.0,
+    "sellSpot": 1.752
+  }
+]

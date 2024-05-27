@@ -1,0 +1,154 @@
+[
+  {
+    "name": "AUD",
+    "date": "4月 1, 2024",
+    "buyCash": 20.4,
+    "buySpot": 20.76,
+    "sellCash": 21.25,
+    "sellSpot": 20.96
+  },
+  {
+    "name": "AUD",
+    "date": "4月 2, 2024",
+    "buyCash": 20.45,
+    "buySpot": 20.74,
+    "sellCash": 21.23,
+    "sellSpot": 20.94
+  },
+  {
+    "name": "AUD",
+    "date": "4月 3, 2024",
+    "buyCash": 20.47,
+    "buySpot": 20.76,
+    "sellCash": 21.25,
+    "sellSpot": 20.96
+  },
+  {
+    "name": "AUD",
+    "date": "4月 8, 2024",
+    "buyCash": 20.74,
+    "buySpot": 21.03,
+    "sellCash": 21.52,
+    "sellSpot": 21.23
+  },
+  {
+    "name": "AUD",
+    "date": "4月 9, 2024",
+    "buyCash": 20.81,
+    "buySpot": 21.1,
+    "sellCash": 21.59,
+    "sellSpot": 21.3
+  },
+  {
+    "name": "AUD",
+    "date": "4月 10, 2024",
+    "buyCash": 20.82,
+    "buySpot": 21.11,
+    "sellCash": 21.6,
+    "sellSpot": 21.31
+  },
+  {
+    "name": "AUD",
+    "date": "4月 11, 2024",
+    "buyCash": 20.65,
+    "buySpot": 20.94,
+    "sellCash": 21.43,
+    "sellSpot": 21.14
+  },
+  {
+    "name": "AUD",
+    "date": "4月 12, 2024",
+    "buyCash": 20.66,
+    "buySpot": 20.95,
+    "sellCash": 21.44,
+    "sellSpot": 21.15
+  },
+  {
+    "name": "AUD",
+    "date": "4月 15, 2024",
+    "buyCash": 20.6,
+    "buySpot": 20.89,
+    "sellCash": 21.38,
+    "sellSpot": 21.09
+  },
+  {
+    "name": "AUD",
+    "date": "4月 16, 2024",
+    "buyCash": 20.46,
+    "buySpot": 20.75,
+    "sellCash": 21.24,
+    "sellSpot": 20.95
+  },
+  {
+    "name": "AUD",
+    "date": "4月 17, 2024",
+    "buyCash": 20.5,
+    "buySpot": 20.685,
+    "sellCash": 21.25,
+    "sellSpot": 21.03
+  },
+  {
+    "name": "AUD",
+    "date": "4月 18, 2024",
+    "buyCash": 20.49,
+    "buySpot": 20.78,
+    "sellCash": 21.27,
+    "sellSpot": 20.98
+  },
+  {
+    "name": "AUD",
+    "date": "4月 19, 2024",
+    "buyCash": 20.51,
+    "buySpot": 20.725,
+    "sellCash": 21.29,
+    "sellSpot": 21.07
+  },
+  {
+    "name": "AUD",
+    "date": "4月 20, 2024",
+    "buyCash": 20.48,
+    "buySpot": 20.695,
+    "sellCash": 21.26,
+    "sellSpot": 21.04
+  },
+  {
+    "name": "AUD",
+    "date": "4月 22, 2024",
+    "buyCash": 20.59,
+    "buySpot": 20.805,
+    "sellCash": 21.37,
+    "sellSpot": 21.15
+  },
+  {
+    "name": "AUD",
+    "date": "4月 23, 2024",
+    "buyCash": 20.62,
+    "buySpot": 20.91,
+    "sellCash": 21.4,
+    "sellSpot": 21.11
+  },
+  {
+    "name": "AUD",
+    "date": "4月 24, 2024",
+    "buyCash": 20.77,
+    "buySpot": 21.06,
+    "sellCash": 21.55,
+    "sellSpot": 21.26
+  },
+  {
+    "name": "AUD",
+    "date": "4月 25, 2024",
+    "buyCash": 20.86,
+    "buySpot": 21.15,
+    "sellCash": 21.64,
+    "sellSpot": 21.35
+  },
+  {
+    "name": "AUD",
+    "date": "4月 26, 2024",
+    "buyCash": 20.9,
+    "buySpot": 21.19,
+    "sellCash": 21.68,
+    "sellSpot": 21.39
+  }
+]
